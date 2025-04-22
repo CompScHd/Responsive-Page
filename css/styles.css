@@ -255,7 +255,7 @@ nav a:focus {
     }
 
     .home-about {
-        background-image: url(s../img/who-we-are.jpg);
+        background-image: url(../img/who-we-are.jpg);
         background-size: no-repeat;
         background-position: center;
         background-size: cover;  
